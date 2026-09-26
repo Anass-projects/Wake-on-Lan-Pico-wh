@@ -1,5 +1,4 @@
-# Wake-on-LAN Server (Raspberry Pi Pico WH)
-
+# Raspberry Pi Pico W: Wake-on-LAN (WOL) Server in MicroPython
 A robust, always-on MicroPython Wake-on-LAN (WoL) server for the Raspberry Pi Pico WH. It securely triggers WoL magic packets via a hidden HTTP request, designed to sit securely behind a NAT router.
 
 ## Key Features
